@@ -10227,7 +10227,7 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.103) 0%, rgba(0, 0, 0, 0.7) 75%, #000000 100%), url("../assets/img/principal.jpeg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.103) 0%, rgba(0, 0, 0, 0.7) 75%, #000000 100%), url("../assets/img/teste.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -10306,7 +10306,7 @@ body {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000000 100%), url("../assets/img/code.jpeg");
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: scroll;
+  background-attachment: fixed;
   background-size: cover;
 }
 .signup-section .form-inline input {
@@ -10369,6 +10369,10 @@ body {
   background-color: #2C415E;
 }
 
-.bg-transparent {
-  background-color: rgba(0, 0, 0, 0.03);
+.bg-style {
+  background-color: rgba(255, 255, 255, 0.711);
+}
+
+.bg-midnight {
+  background-color: #1e272e96;
 }
